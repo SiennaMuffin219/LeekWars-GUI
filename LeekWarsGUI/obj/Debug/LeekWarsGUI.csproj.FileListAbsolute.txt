@@ -1,0 +1,17 @@
+c:\users\olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\bin\Debug\LeekWarsGUI.exe.config
+c:\users\olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\bin\Debug\LeekWarsGUI.exe
+c:\users\olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\bin\Debug\LeekWarsGUI.pdb
+c:\users\olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\obj\Debug\LeekWarsGUI.Properties.Resources.resources
+c:\users\olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\obj\Debug\LeekWarsGUI.csproj.GenerateResource.Cache
+c:\users\olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\obj\Debug\LeekWarsGUI.exe
+c:\users\olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\obj\Debug\LeekWarsGUI.pdb
+c:\users\olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\obj\Debug\LeekWarsGUI.GUI.resources
+c:\users\olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\obj\Debug\LeekWarsGUI.LoginLW.resources
+C:\Users\Olivier\Documents\Visual Studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\obj\Debug\LeekWarsGUI.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\bin\Debug\RestSharp.dll
+C:\Users\Olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\bin\Debug\System.Net.Http.dll
+C:\Users\Olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Olivier\documents\visual studio 2015\Projects\LeekWarsGUI\LeekWarsGUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
